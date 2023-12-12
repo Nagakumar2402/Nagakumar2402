@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nagakumar Reddy</h1>
+<h1 align="center">Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>,I'm Nagakumar Redd</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagakumar2402&label=Profile%20views&color=0e75b6&style=flat" alt="nagakumar2402" /> </p>
