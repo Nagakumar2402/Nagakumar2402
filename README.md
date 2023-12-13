@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Nextjs v14**
 
-- 👨‍💻 All of my projects are available at [loading](loading)
+- 👨‍💻 All of my projects are available at [loading...](loading...)
 
-- 💬 Ask me about [click-hear](https://github.com/Nagakumar2402/Nagakumar2402/issues/1#issue-2039084642)
+- 💬 Ask me about [hear](https://github.com/Nagakumar2402/Nagakumar2402/issues/1#issue-2039084642)
 
 - 📫 How to reach me **nagakumar2402@gmail.com**
 
@@ -58,3 +58,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagakumar2402&show_icons=true&locale=en" alt="nagakumar2402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagakumar2402&" alt="nagakumar2402" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
