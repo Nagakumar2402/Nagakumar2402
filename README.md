@@ -1,20 +1,21 @@
-[![MasterHead](https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif)](https://www.google.com/) 
+[![MasterHead](assets/NAGA.jpg)](https://www.google.com/)
+
 <h1 align="center">Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30'/>,I'm Nagakumar Reddy</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" max-width="300" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif">
 
 - 🌱 I’m currently learning **Nextjs v14**
 
 - 👨‍💻 All of my projects are available at [loading](loading)
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about [click-hear](https://github.com/Nagakumar2402/Nagakumar2402/issues/1#issue-2039084642)
 
 - 📫 How to reach me **nagakumar2402@gmail.com**
 
 - 📄 Know about my experiences [Resume](loading..)
 
-- ⚡ Fun fact **I ❤️ Sci-Fi**
+- ⚡ Fun fact **Equal is Not Always Equal in JS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
