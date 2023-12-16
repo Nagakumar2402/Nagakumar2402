@@ -13,15 +13,15 @@
 
 - 📫 How to reach me **nagakumar2402@gmail.com**
 
-- 📄 Know about my experiences [Resume](loading..)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QhgcIW8tKJbwGVV4Nk5IrB4vQ9H5UeEu/view?usp=sharing)
 
 - ⚡ Fun fact **Equal is Not Always Equal in JS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fgfgfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fgfgfg" height="30" width="40" /></a>
-<a href="https://fb.com/loading" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loading" height="30" width="40" /></a>
-<a href="https://instagram.com/gfgffg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gfgffg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nagakumar-reddy-25a4633a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagakumar-reddy" height="30" width="40" /></a>
+<a href="https://fb.com/nagakumar.reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nagakumar.reddy" height="30" width="40" /></a>
+<a href="https://instagram.com/nagakumar_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gfgffg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gfgf" height="30" width="40" /></a>
 </p>
 
