@@ -51,10 +51,11 @@ These are some of the technologies and tools that I work with:
     <th>Frameworks</th>
     <td>
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat-square&logo=express&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Nextjs-010409?style=flat-square&logo=Next.js" />
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+       <img src="https://img.shields.io/badge/-React-native-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
+      <img src="https://img.shields.io/badge/-React-native-black?style=flat-square&logo=react&logoColor=Crayola" />
     </td>
   </tr>
   <tr>
