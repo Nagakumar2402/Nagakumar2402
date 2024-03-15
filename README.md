@@ -55,7 +55,6 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
        <img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
-  
     </td>
   </tr>
   <tr>
