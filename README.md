@@ -5,9 +5,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" max-width="300" src="https://i.pinimg.com/originals/7c/e9/e3/7ce9e34927261d3b035090cac779fec5.gif">
 
-- 🌱 I’m currently learning **Nextjs v14**
+- 🌱 I’m currently learning **Nextjs v14** 
 
-- 👨‍💻 All of my projects are available at [loading...](loading...)
+- 👨‍💻 All of my projects are available at [loading...](https://my-portfolio-4ot7v5rpv-nagakumar2402.vercel.app/)
 
 - 💬 Ask me about [hear](https://github.com/Nagakumar2402/Nagakumar2402/issues/1#issue-2039084642)
 
