@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nagakumar2402@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JO2QC6awAdxmJ0mq5d--06mpb8vvl78Y/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1lRDPbomttlw9BlF8Jcdqwhim4NYYVgBQ/edit?usp=sharing&ouid=107343406395204275741&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Equal is Not Always Equal in JS.**
 
