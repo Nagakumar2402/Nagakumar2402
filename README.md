@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- Snake Code Contribution Map  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-snake-contrib/github-contribution-grid-snake.svg" />
