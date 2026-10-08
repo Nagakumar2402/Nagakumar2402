@@ -119,7 +119,7 @@ Working with:
 📧 **nagakumar2402@gmail.com**
 
 🌐 **Portfolio:**  
-https://my-portfolio-4ot7v5rpv-nagakumar2402.vercel.app/
+https://nagakumar.vercel.app/
 
 📄 **Resume:**  
 Available on my portfolio
