@@ -134,4 +134,4 @@ Available on my portfolio
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Nagakumar2402/Nagakumar2402/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nagakumar2402/Nagakumar2402/blob/main/assets/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
